@@ -1,0 +1,13 @@
+.left{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.row-class{
+    background-color: black;
+}
+.right{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
